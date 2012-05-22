@@ -1,0 +1,43 @@
+!656;s
+J
+SAU0PATH+=%<JGRASP_PATHS>%;
+SCU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+S+U0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012CLASSPATH+=.%;\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012
+SOU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!14;a
+a%\011	b	c1	d0!231;g
+%\011Client.java
+%\011Main.java
+%\011BoardServer.java
+%\011Piece.java
+%\011Rook.java
+%\011Queen.java
+%\011Bishop.java
+%\011Pawn.java
+%\011Knight.java
+%\011FinalProject.gpj
+%\011ServerInformation.java
+%\011King.java
+%\011Board.java
+!192;f
+%	Client.java
+%	Main.java
+%	BoardServer.java
+%	Piece.java
+%	Rook.java
+%	Queen.java
+%	Bishop.java
+%	Pawn.java
+%	Knight.java
+%	FinalProject.gpj
+%	ServerInformation.java
+%	King.java
+%	Board.java
+!34;m
+RunSelect	APPLICATION:BoardServer
